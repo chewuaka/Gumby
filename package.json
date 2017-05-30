@@ -1,0 +1,20 @@
+{
+  "name": "npm-gumby",
+  "version": "0.2.2",
+  "description": "Gumby 2 Framework Node.js Install",
+  "keywords": [
+    "gumby"
+  ],
+  "homepage": "https://github.com/chewuaka/gumby",
+  "bugs": "https://github.com/chewuaka/gumby.git/issues",
+  "author": "Iván Román",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chewuaka/gumby.git"
+  },
+  "licenses": [
+    {
+      "type": "BSD"
+    }
+  ]
+}
